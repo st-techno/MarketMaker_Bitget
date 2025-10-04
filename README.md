@@ -1,6 +1,6 @@
 # Copyright @ ST Technologies
 
-## Comprehensive, Production-Grade Python Market-Making system for BTC-USDT spot and futures on centralized order books like Bitget that includes:
+## Comprehensive Production-Grade Python Market-Making system for BTC-USDT spot and futures on centralized order books like Bitget that includes:
 
 Full rebalancing logic with position limits and inventory hedging
 
