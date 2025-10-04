@@ -1,6 +1,6 @@
-## Copyright @ ST Technologies
+# Copyright @ ST Technologies
 
-# Comprehensive, Production-Grade Python Market-Making system for BTC-USDT spot and futures on centralized order books like Bitget that includes:
+## Comprehensive, Production-Grade Python Market-Making system for BTC-USDT spot and futures on centralized order books like Bitget that includes:
 
 Full rebalancing logic with position limits and inventory hedging
 
@@ -16,7 +16,7 @@ Modular, thread-safe architecture with robust logging
 
 This design mimics real market scenarios and institutional best practices for risk control and performance.
 
-# Explanation of Rebalancing and Hedging Logic:
+## Explanation of Rebalancing and Hedging Logic:
 
 The market maker continuously monitors spot and futures inventories.
 
